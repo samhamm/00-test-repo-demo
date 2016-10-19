@@ -13,7 +13,7 @@ Get some practice in :smiley:
 5. Immediately `git checkout -b firstname-lastname`
 6. `atom .` to open all of the files. There's some new things you haven't seen before. Look around.
 6. Open up the `wat.js` file and remove the semicolon from the end of the line and save the file.
-7. `git add starter-code wat.js`
+7. `git add starter-code/wat.js`
 8. `git commit -m 'remove semicolon to make the linter fail'`
 9. `git push origin test-branch`
 10. Head over to GitHub to make a PR from `firstname-lastname`.
